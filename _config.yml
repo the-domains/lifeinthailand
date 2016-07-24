@@ -1,0 +1,28 @@
+name: lifeinthailand
+favicon: null
+layout_spectrum: 0.8957519493997097
+typography_spectrum: 0.31160040525719523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.38958855671808124
+  lightness: 0.34660100541077554
+  saturation: 0.09124827082268894
+  rhythmicContrast: 0.28883460024371743
+purpose: []
